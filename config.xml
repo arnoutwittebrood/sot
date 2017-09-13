@@ -22,6 +22,8 @@
     <icon src="icon.png" />
     <splash src="splash.png" />
 
+    <access origin="https://slideontime.com" />
+
  <!-- iPhone 6 / 6+ -->
 <icon src="icon-60@3x.png" platform="ios" width="180" height="180" />
 
